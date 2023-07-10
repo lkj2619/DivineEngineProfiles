@@ -591,6 +591,7 @@ DOMAIN,mobads.baidu.com,REJECT
 DOMAIN,mobads-logs.baidu.com,REJECT
 DOMAIN,nadvideo2.baidu.com,REJECT
 DOMAIN,nsclick.baidu.com,REJECT
+DOMAIN,bgg.baidu.com,REJECT
 # > iQIYI
 DOMAIN,t7z.cupid.iqiyi.com,REJECT
 DOMAIN,t7z.cupid.ptqy.gitv.tv,REJECT
